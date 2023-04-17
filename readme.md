@@ -1,3 +1,3 @@
-## go-crud,
+## <b> go-crud </b>
 
-A crud API in go(golang) and gin, using gorm.
+I was learning how to make apis using `go`,  `gin`, and `gorm`
